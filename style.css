@@ -1,0 +1,33 @@
+*{
+    background-color: black;
+}
+#text{
+    color: white;
+    text-align: center;
+}
+.timebar{
+background-color:#34344A;
+flex-wrap: wrap;
+display: flex;
+align-items: center;
+justify-content: center;
+margin-top:80px;
+height: 100px;
+margin-inline: 70px;
+border-radius: 20px;
+}
+#bt2{
+    margin-inline-start: 46%;
+    margin-top: 30px;
+    color: aliceblue;
+    scale: 2;
+    text-align: center;
+    border-radius: 20px;
+    border-width: 0px;
+    background-color: #39393E;
+}
+#bottom{
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+}
